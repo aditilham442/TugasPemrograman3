@@ -43,7 +43,9 @@ print("Data ke", i, "=>", a)
 print("Selesai")
 
 'i' adalah hasil dari jumlah perulangan yang telah dilakukan. Dan 'a' akan menampilkan nilai secara acak karena fungsi random yang telah diinput.
+
 Screenshot Input & Output
+
 ![1](https://user-images.githubusercontent.com/56506849/68185563-612d0200-ffd4-11e9-8ed6-2c54f2db89a4.png)
 
 Latihan1p3
@@ -100,7 +102,10 @@ print("Bilangan terbesar adalah :", b)
 print("Selesai")
 
 Disini kita akan menampilkan output bilangan terbesar dari angka - angka yang telah diinputkan.
+
 Screenshot Input & Output
+
+![2](https://user-images.githubusercontent.com/56506849/68185687-b1a45f80-ffd4-11e9-88c0-052dec5d6b98.png)
 
 Latihan2p3
 Program1
@@ -185,4 +190,7 @@ Syntax diatas akan menampilkan hasil laba setiap bulan.
 print("Total laba adalah:", untung)
 
 Dan ini akan menampilkan total laba selama 8 bulan.
+
 Screenshot Input & Output
+
+![3](https://user-images.githubusercontent.com/56506849/68185691-b537e680-ffd4-11e9-8383-ccd665b67680.png)
