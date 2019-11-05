@@ -44,6 +44,7 @@ print("Selesai")
 
 'i' adalah hasil dari jumlah perulangan yang telah dilakukan. Dan 'a' akan menampilkan nilai secara acak karena fungsi random yang telah diinput.
 Screenshot Input & Output
+![1](https://user-images.githubusercontent.com/56506849/68185563-612d0200-ffd4-11e9-8ed6-2c54f2db89a4.png)
 
 Latihan1p3
 Latihan 2
